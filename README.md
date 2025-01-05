@@ -19,3 +19,9 @@ ___negrito e italico___
 ![Texto da imagem](https://br.pinterest.com/pin/um-prdosol-qualquer-em-porto-alegre--355784439283251869/)
 
 `system.out.print();`
+
+> Texto de Citacoes
+
+| Cabecalho 1 | Cabecalho 2 |
+|-------------| ------------|
+| Texto 1     |  Texto 2    |
