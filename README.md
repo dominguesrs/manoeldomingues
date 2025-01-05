@@ -1,27 +1,5 @@
-# manoeldomingues
+# Manoel Domingues
 
-*italico* ou _italico_
+## Sejam Bem Vindos ##
 
-**Negrito** ou __negrito__
-
-___negrito e italico___
-
-- Lista 1
-- Lista 2
-  - Sublista
-
-  1. LISTA 1
-  2. LISTA 2
-     1. Sublista
-
-[Texto da imagem](https://br.pinterest.com/pin/um-prdosol-qualquer-em-porto-alegre--355784439283251869/)   
-
-![Texto da imagem](https://br.pinterest.com/pin/um-prdosol-qualquer-em-porto-alegre--355784439283251869/)
-
-`system.out.print();`
-
-> Texto de Citacoes
-
-| Cabecalho 1 | Cabecalho 2 |
-|-------------| ------------|
-| Texto 1     |  Texto 2    |
+![Gif meme Computer](https://tenor.com/pt-BR/view/meme-gif-8470516175995282617)
