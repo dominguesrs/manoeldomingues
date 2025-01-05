@@ -2,4 +2,4 @@
 
 ## Sejam Bem Vindos ##
 
-![Gif meme Computer](https://media1.tenor.com/m/-hdn7mt9c1EAAAAd/junior-thumbs-up.gif)
+![Gif meme Computer](https://media.tenor.com/KsvZ1G5XL1UAAAAe/drake-computer.png)
