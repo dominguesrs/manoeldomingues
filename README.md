@@ -2,4 +2,4 @@
 
 ## Sejam Bem Vindos ##
 
-![Gif meme Computer](https://tenor.com/pt-BR/view/meme-gif-8470516175995282617)
+![Gif meme Computer](https://giphy.com/gifs/stardust-stardustae-classic-computers-4H3Ii5eLChYul9p7NL)
