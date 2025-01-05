@@ -2,4 +2,4 @@
 
 ## Sejam Bem Vindos ##
 
-![Gif meme Computer](https://tenor.com/pt-BR/view/neetcord-neet-volcel-degen-gif-205244025455434589)
+![Gif meme Computer](https://media1.tenor.com/m/-hdn7mt9c1EAAAAd/junior-thumbs-up.gif)
