@@ -22,7 +22,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="80">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="80">
  </p>
-
+------ 
  ![Manoel Domingues GitHub stats](https://github-readme-stats.vercel.app/api?username=dominguesrs&show_icons=true&theme=tokyonight)
           
 
