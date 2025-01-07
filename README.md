@@ -9,4 +9,12 @@
 
 💬 Profissional de Tecnologia da Informação, graduado em  Gestão da Tecnologia da Informação.
 
-📧 [Linkedin](https://www.linkedin.com/in/manoeldomingues)
+📧 [ Acesse meu Linkedin](https://www.linkedin.com/in/manoeldomingues)
+
+-----
+
+### Tecnologias utilizadas 
+
+-----
+
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
